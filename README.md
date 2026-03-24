@@ -117,18 +117,17 @@ I'm a passionate Frontend Developer who loves building beautiful, performant web
 </div>
 
 ## 🎯 Current Focus
-
 ```javascript
 const currentGoals = {
-    2024: [
-        "Master advanced Next.js 15 patterns",
-        "Deep dive into cloud architecture",
-        "Contribute to open-source projects",
-        "Build AI-powered web applications"
+    2026: [
+        "Building a real-time chat app with MERN stack (WebSockets + Socket.io)",
+        "Mastering Next.js 15 App Router & Server Components",
+        "Exploring system design principles & scalable architectures",
     ],
     openToOpportunities: true,
-    lookingForCollaboration: ["Open Source", "Fintech", "Web3"]
+    lookingForCollaboration: ["Open Source"]
 };
+` ` `
 ```
 
 ## 🌱 Currently Learning
