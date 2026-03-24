@@ -22,7 +22,7 @@ const youssef = {
     location: "Casablanca, Morocco 🇲🇦",
     role: "Frontend Developer",
     experience: "4+ years",
-    currentFocus: ["Performance Optimization", "Design Systems", "Web3"],
+    currentFocus: ["Performance Optimization", "Design Systems"],
     learning: ["Cloud Architecture", "Big Data", "AI Integration"],
     funFact: "I turn coffee into code ☕ → 💻"
 };
